@@ -24,7 +24,8 @@ The network status was verified using the Windows network panel and Command Prom
 
 Command used:
 
-<img width="1406" height="744" alt="p1" src="https://github.com/user-attachments/assets/dab4400f-b3f9-49b8-a63f-5f46f1c8a40a" />
+<img width="730" height="814" alt="p6" src="https://github.com/user-attachments/assets/206aa73a-0b87-4ff3-89b6-6653d50acb8c" />
+
 
 - network-status.png
 
@@ -58,4 +59,5 @@ The internet connection was successfully restored and verified.
 ## Conclusion
 This task demonstrated basic system inspection, network troubleshooting, and documentation skills required for entry-level IT support roles.
 
-<img width="1117" height="259" alt="p4" src="https://github.com/user-attachments/assets/1349648a-92df-4644-8bc2-0e81a0e9c5b1" />
+<img width="1120" height="181" alt="p5" src="https://github.com/user-attachments/assets/e7621d33-e4ab-4695-aaaf-2d3e6583da1a" />
+
