@@ -50,7 +50,7 @@ A network disconnection was simulated by disabling the network adapter.
 ## Resolution
 The internet connection was successfully restored and verified.
 
-**<img width="1113" height="220" alt="p3" src="https://github.com/user-attachments/assets/d8f7e93a-3b36-44e7-9718-4fc8c29c8044" />
+*<img width="1120" height="181" alt="p5" src="https://github.com/user-attachments/assets/e7621d33-e4ab-4695-aaaf-2d3e6583da1a" />
 **
 - issue-resolved.png
 
@@ -59,5 +59,5 @@ The internet connection was successfully restored and verified.
 ## Conclusion
 This task demonstrated basic system inspection, network troubleshooting, and documentation skills required for entry-level IT support roles.
 
-<img width="1120" height="181" alt="p5" src="https://github.com/user-attachments/assets/e7621d33-e4ab-4695-aaaf-2d3e6583da1a" />
+
 
